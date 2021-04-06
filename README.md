@@ -1,2 +1,2 @@
-# shuangseqiu
-双色球
+# ssq
+ssq
